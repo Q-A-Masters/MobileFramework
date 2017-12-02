@@ -1,0 +1,7 @@
+2017-11-29 19:51:56,421 - rootLogger - INFO - Loaded the following properties TimeOut :10 RetryCount :5
+2017-11-29 19:51:57,259 - rootLogger - INFO - The element username Text Field is displayed
+2017-11-29 19:51:59,500 - rootLogger - INFO - Typed the value Company in to object By.xpath: //*[@placeholder='Username']
+2017-11-29 19:52:00,123 - rootLogger - INFO - The element password Text Field is displayed
+2017-11-29 19:52:02,127 - rootLogger - INFO - Typed the value Company in to object By.xpath: //*[@placeholder='Password']
+2017-11-29 19:52:02,557 - rootLogger - INFO - The element login is displayed
+2017-11-29 19:52:03,516 - rootLogger - INFO - Clicked on the objectBy.xpath: //*[@accessibilityLabel='Login']
